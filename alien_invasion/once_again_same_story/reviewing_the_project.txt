@@ -1,0 +1,17 @@
+Reviewing the Project.
+
+    1. Examine our code and determine if we need to refactor before
+    implementing new features.
+    2. Add a single alien to the top-left corner of the screen with
+    appropriate spacing around it.
+    3. Use the spacing around the first alien and the overall screen
+    size to determine how many aliens can fit on the screen. We'll
+    write a loop to create aliens to fill the upper portion of the
+    screen.
+    4. Make the fleet move sideways and down until the entire fleet
+    is shot down, an alien hits the ship, or an alien reaches the
+    ground. IF the whole fleet is shot down, we'll create a new fleet.
+    If an alien hits the ship or the ground, we'll destroy the ship
+    and create a new fleet.
+    5. Limit the number of ships the player can use, and end the game
+    when player has used up the allotment of ships.

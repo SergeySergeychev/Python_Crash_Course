@@ -1,0 +1,4 @@
+Ex. Nr. 18-8, Pizzeria Pages on page 424.
+    Add a page to the Pizzeria project from ex. 18-6,  that shows the names
+of available pizzas. Then link each pizza name to a page displaying the pizz'as
+toppigs. Make sure you use temlate inheritance to build your pages efficiantly.

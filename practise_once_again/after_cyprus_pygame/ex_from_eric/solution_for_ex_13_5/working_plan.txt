@@ -1,0 +1,88 @@
+# Describe an ex. 13_5_catch.:
+"""
+    Create a game that that places a character that you can move left
+ and right at the bottom of the screen. Make a ball appear at random
+ position at the top of the screen and fall down the screen at a
+ steady rate. If your character "catches" the ball by colliding with
+ it , make the ball disappear. Make a new ball each time your character
+ catches the ball or whenever the ball disappears of the bottom of catches
+ screen.
+    # Working plan:
+        # Write class Settings:
+            # A class to store all settings for ball_game.
+                # Initialize the game's settings.
+                    # Screen settings.
+                        # screen size 800 x 600, color (255, 255, 255).
+                    # Player settings.
+                        # player_speed_factor = 1.5.
+                    # Ball settings.
+                        # ball_fall_speed = 2
+
+        # Write class Ball:
+            # Use tools as pygame and Sprite.
+            # It should inherits from class Sprite.
+            # A class to present a single ball in the game.
+                # Initialize the ball and set it starting position.
+                    # Load the ball image and set its rect attribute.
+                    # Start each ball at the top left of the screen.
+                    # Store the ball exact position.
+                # Write function blitme:
+                    # Draw the ball at its current location."""
+                # Write function ball_hit_the_floor:
+                    # Return True if ball hit bottom edge of the screen.
+                # Write function update:
+                    # Move the ball steady down to a bottom of the screen.
+
+        # Write class Player:
+            # A Class to present a single player in the ball game.
+                # initialize the player and set its starting position.
+                    # Load the players image  and get its rect.
+                    # Starting position is at the bottom center of the screen.
+                    # Store a decimal value for the payer center.
+                    # Movement flag to_right and to_left
+                # Write function update:
+                    # Update the player's position based on movement flags.
+                    # Update the players center value , not the rect.
+                    # Update rect object from self center.
+                # Write function blitme:
+                    # Draw the player at its current location.
+        # Write game functions:
+            # Use tools sys, pygame.
+                # Write function check_keydown_events:
+                    # Respond to keypress.
+                # Write function check_keyup_events
+                    # Respond to key releases.
+                # Write function check_events.
+                    # Respond to keypress and mouse events.
+                # Write function get_number_balls_x
+                    # Determine the number of ball that fit in a row
+                # Write function create_ball.
+                    # Create a ball and place it at the random place.
+                ### Write function ball_fall_on_the_floor.###
+                    # Check if ball sprite reached the floor and delete it.
+                # Write function check_ball_player_collisions.
+                    # Respond to bullet-ball collisions.
+                    # Remove ball which collided with player
+                    # Destroy disappeared ball and Create new ball.
+                # Write function update_ball:
+                    # Update ball position
+                    # Get rid of balls that hit the floor.
+                    # check if ball collided with player.
+
+        # Write function update_screen:
+            # Redraw the screen during each pass through the loop.
+            # Make player to be visible.
+            # Make ball to be visible.
+            # Make the most recently drawn screen visible
+
+        # Write main ball game function.
+            # use tools as sys, pygame, group, game functions.
+                # Initialize pygame, screen object, settings.
+                # make a balls and players group.
+                # Start the main loop for the game.
+                    # Watch for keyboard and mouse events.
+                    # Update balls position.
+                    # Update ship position.
+                    # Update screen.
+
+    # Run the Ball Game

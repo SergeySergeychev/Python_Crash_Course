@@ -1,0 +1,6 @@
+# Ex. 14 -1 , description.
+    # Because Alien Invasion uses keyboard input to control the ship, it's
+    # best to start the game with a keypress. Add code that lets the player
+    # press P to start. It may help to move some code from check_play_button()
+    # to a start game() function that can be called from both check_play_button()
+    # check_keydown_event().

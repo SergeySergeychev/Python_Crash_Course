@@ -1,0 +1,17 @@
+Ex. 14-4, page Nr.317.
+    # Description :
+        # The high score is reset every time a player closes and restarts
+        Alien Invasion. Fix this by writing the high score to a file before
+        calling sys.exit() adn reading the high score in when initializing its
+        value in GameStats.
+
+        # Solution:
+            # Create txt file with name high_score.txt
+            # Create filename(high_score.txt) in game_stats.
+            # Create function read file high_score:
+                # Read file
+            # Create function write to file high_score:
+                # Write to file high_score
+
+
+and make the number in file be equal to prep_high

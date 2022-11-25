@@ -1,0 +1,35 @@
+# Ex. molecular motion 15-3; page Nr.372.
+    # Modify rw_visual.py by replacing plt.scatter() with
+    # plt.plot(). To simulate the path of a pollen grain on an
+    # the surface of a drop o a water, pass in the rw.x_values
+    # and rw.y_values, and include a linewidth argument. Use
+    # 5000 instead of 50000 points.
+
+# Solution:
+# import from random choice to generate random numbers.
+# import matplotlib.pyplot
+    # Create new class WaterDrop.
+        # A Class to present a drop of a water on surface.
+        # Initialize attributes of a water drop.
+        # Starting position on axes is x = 0, y = 0
+        # constant attriubte of the class is num_points = 5000
+
+        # Write function
+            # fill_trace
+                # Keep filling trace until the trace reaches the
+                # desired length.
+                # Write while loop:
+                    # Decide which direction to go and how far to go.
+                    # Reject moves that go nowhere.
+                    # Calculate the next x and y values.
+        # Write function for visualisation.Call file wd_visual.py
+            # Import matplotlib
+            # import WaterDrop
+            # Invoke class WaterDrop as wd
+            # call to WaterDrop class function fill_trace
+            # Set the size of the plotting window.
+            # Write function plot with parameters:
+                # x_values, y_values, linewidth = 7
+            # Emphasize the first point and last point.
+            # Make axes invisible.
+            # Show the plot.

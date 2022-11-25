@@ -1,0 +1,3 @@
+In Python you can use OOP or FOP.
+In Python you can use functions, methods and clases.
+In Python you can use help from biggest society, they are adding lots of modules each day

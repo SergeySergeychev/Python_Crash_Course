@@ -1,0 +1,248 @@
+[Command: python -u 'C:\Users\sserg\Downloading data\mapping_global_data_sets\world_population.py']
+Arab World: 357868000
+Caribbean small states: 6880000
+East Asia & Pacific (all income levels): 2201536674
+East Asia & Pacific (developing only): 1961558757
+Euro area: 331766000
+Europe & Central Asia (all income levels): 890424544
+Europe & Central Asia (developing only): 405204000
+European Union: 502125000
+Heavily indebted poor countries (HIPC): 635663000
+High income: 1127437398.85751
+High income: nonOECD: 94204398.857512
+High income: OECD: 1033233000
+Latin America & Caribbean (all income levels): 589011025.857512
+Latin America & Caribbean (developing only): 582551688
+Least developed countries: UN classification: 835140827
+Low & middle income: 5767157445
+Low income: 796342000
+Lower middle income: 2518690865
+Middle East & North Africa (all income levels): 382803000
+Middle East & North Africa (developing only): 331263000
+Middle income: 4970815445
+North America: 343539600
+OECD members: 1236521688
+Other small states: 18293000
+Pacific island small states: 3345337
+Small states: 28518337
+South Asia: 1633146000
+Sub-Saharan Africa (all income levels): 854134000
+Sub-Saharan Africa (developing only): 853434000
+Upper middle income: 2452124580
+World: 6894594843.85751
+Afghanistan: 34385000
+Albania: 3205000
+Algeria: 35468000
+American Samoa: 68420
+Andorra: 84864
+Angola: 19082000
+Antigua and Barbuda: 88000
+Argentina: 40412000
+Armenia: 3092000
+Aruba: 108000
+Australia: 22299000
+Austria: 8390000
+Azerbaijan: 9054000
+Bahamas, The: 343000
+Bahrain: 1262000
+Bangladesh: 148692000
+Barbados: 274000
+Belarus: 9490000
+Belgium: 10896000
+Belize: 345000
+Benin: 8850000
+Bermuda: 64600
+Bhutan: 726000
+Bolivia: 9929000
+Bosnia and Herzegovina: 3760000
+Botswana: 2007000
+Brazil: 194946000
+Brunei Darussalam: 399000
+Bulgaria: 7534000
+Burkina Faso: 16468000
+Burundi: 8382000
+Cambodia: 14139000
+Cameroon: 19599000
+Canada: 34126000
+Cape Verde: 496000
+Cayman Islands: 56230
+Central African Republic: 4401000
+Chad: 11227000
+Channel Islands: 153352
+Chile: 17113688
+China: 1338300000
+Colombia: 46295000
+Comoros: 735000
+Congo, Dem. Rep.: 65965000
+Congo, Rep.: 4043000
+Costa Rica: 4659000
+Cote d'Ivoire: 19738000
+Croatia: 4418000
+Cuba: 11258000
+Curacao: 142668.399295012
+Cyprus: 1103000
+Czech Republic: 10520000
+Denmark: 5547000
+Djibouti: 889000
+Dominica: 68000
+Dominican Republic: 9927000
+Ecuador: 14465000
+Egypt, Arab Rep.: 81121000
+El Salvador: 6193000
+Equatorial Guinea: 700000
+Eritrea: 5254000
+Estonia: 1340000
+Ethiopia: 82950000
+Faeroe Islands: 48708
+Fiji: 860000
+Finland: 5364000
+France: 64895000
+French Polynesia: 271000
+Gabon: 1505000
+Gambia, The: 1729000
+Georgia: 4452000
+Germany: 81777000
+Ghana: 24392000
+Gibraltar: 29244
+Greece: 11316000
+Greenland: 56534
+Grenada: 104000
+Guam: 179000
+Guatemala: 14389000
+Guinea: 9982000
+Guinea-Bissau: 1515000
+Guyana: 755000
+Haiti: 9993000
+Honduras: 7600000
+Hong Kong SAR, China: 7068000
+Hungary: 10000000
+Iceland: 318000
+India: 1224615000
+Indonesia: 239870000
+Iran, Islamic Rep.: 73973000
+Iraq: 32031000
+Ireland: 4475000
+Isle of Man: 82869
+Israel: 7624000
+Italy: 60483000
+Jamaica: 2702000
+Japan: 127451000
+Jordan: 6047000
+Kazakhstan: 16323000
+Kenya: 40513000
+Kiribati: 100000
+Korea, Dem. Rep.: 24346000
+Korea, Rep.: 48875000
+Kosovo: 1815000
+Kuwait: 2736000
+Kyrgyz Republic: 5448000
+Lao PDR: 6201000
+Latvia: 2239000
+Lebanon: 4227000
+Lesotho: 2171000
+Liberia: 3994000
+Libya: 6355000
+Liechtenstein: 36032
+Lithuania: 3287000
+Luxembourg: 507000
+Macao SAR, China: 544000
+Macedonia, FYR: 2060000
+Madagascar: 20714000
+Malawi: 14901000
+Malaysia: 28401000
+Maldives: 316000
+Mali: 15370000
+Malta: 416000
+Marshall Islands: 54038
+Mauritania: 3460000
+Mauritius: 1281000
+Mayotte: 204000
+Mexico: 113423000
+Micronesia, Fed. Sts.: 111000
+Moldova: 3562000
+Monaco: 35407
+Mongolia: 2756000
+Montenegro: 632000
+Morocco: 31951000
+Mozambique: 23390000
+Myanmar: 47963000
+Namibia: 2283000
+Nepal: 29959000
+Netherlands: 16616000
+New Caledonia: 247000
+New Zealand: 4368000
+Nicaragua: 5789000
+Niger: 15512000
+Nigeria: 158423000
+Northern Mariana Islands: 60917
+Norway: 4889000
+Oman: 2783000
+Pakistan: 173593000
+Palau: 20472
+Panama: 3517000
+Papua New Guinea: 6858000
+Paraguay: 6454000
+Peru: 29076000
+Philippines: 93261000
+Poland: 38184000
+Portugal: 10638000
+Puerto Rico: 3978000
+Qatar: 1759000
+Romania: 21438000
+Russian Federation: 141750000
+Rwanda: 10624000
+Samoa: 184000
+San Marino: 31534
+Sao Tome and Principe: 165000
+Saudi Arabia: 27448000
+Senegal: 12434000
+Serbia: 7291000
+Seychelles: 87000
+Sierra Leone: 5867000
+Singapore: 5077000
+Sint Maarten (Dutch part): 37850.4582169604
+Slovak Republic: 5430000
+Slovenia: 2049000
+Solomon Islands: 538000
+Somalia: 9331000
+South Africa: 49991000
+Spain: 46071000
+Sri Lanka: 20860000
+St. Kitts and Nevis: 52000
+St. Lucia: 174000
+St. Martin (French part): 30235
+St. Vincent and the Grenadines: 109000
+Sudan: 43552000
+Suriname: 525000
+Swaziland: 1056000
+Sweden: 9378000
+Switzerland: 7826000
+Syrian Arab Republic: 20447000
+Tajikistan: 6879000
+Tanzania: 44841000
+Thailand: 69122000
+Timor-Leste: 1124000
+Togo: 6028000
+Tonga: 104000
+Trinidad and Tobago: 1341000
+Tunisia: 10549000
+Turkey: 72752000
+Turkmenistan: 5042000
+Turks and Caicos Islands: 38354
+Tuvalu: 9827
+Uganda: 33424000
+Ukraine: 45871000
+United Arab Emirates: 7512000
+United Kingdom: 62232000
+United States: 309349000
+Uruguay: 3357000
+Uzbekistan: 28228000
+Vanuatu: 240000
+Venezuela, RB: 28834000
+Vietnam: 86928000
+Virgin Islands (U.S.): 110000
+West Bank and Gaza: 4152000
+Yemen, Rep.: 24053000
+Zambia: 12927000
+Zimbabwe: 12571000
+[Finished in 0.29s]
